@@ -58,7 +58,7 @@ python traffic_analyzer.py -i eth0 -c 100
 ```
 
 ## 📸 Screenshots
-[![Deep Packet Inspection (HTTP Payload)] (https
+[![Deep Packet Inspection (HTTP Payload)] (payload-alert.png)] (payload-alert.png)
 
 Intrusion Detection (Rapid Port Scan)
 
