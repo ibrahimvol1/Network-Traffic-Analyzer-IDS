@@ -58,9 +58,12 @@ python traffic_analyzer.py -i eth0 -c 100
 ```
 
 ## 📸 Screenshots
-[![Deep Packet Inspection (HTTP Payload)] (payload-alert.png)] (payload-alert.png)
+### Deep Packet Inspection (HTTP Payload)
+![HTTP Payload Alert](payload-alert.png)
 
-Intrusion Detection (Rapid Port Scan)
+
+### Intrusion Detection (Rapid Port Scan)
+![HTTP PortScan Alert](port-scan-alert.png)
 
 ## ⚠️ Disclaimer
 This tool was created for educational purposes and personal cybersecurity training. It should only be used on networks and devices you explicitly own or have permission to monitor. Unauthorized network sniffing is illegal.
